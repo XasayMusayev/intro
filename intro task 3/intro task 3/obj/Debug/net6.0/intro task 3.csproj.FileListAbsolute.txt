@@ -1,0 +1,15 @@
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\bin\Debug\net6.0\intro task 3.exe
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\bin\Debug\net6.0\intro task 3.deps.json
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\bin\Debug\net6.0\intro task 3.runtimeconfig.json
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\bin\Debug\net6.0\intro task 3.dll
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\bin\Debug\net6.0\intro task 3.pdb
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\obj\Debug\net6.0\intro task 3.csproj.AssemblyReference.cache
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\obj\Debug\net6.0\intro task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\obj\Debug\net6.0\intro task 3.AssemblyInfoInputs.cache
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\obj\Debug\net6.0\intro task 3.AssemblyInfo.cs
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\obj\Debug\net6.0\intro task 3.csproj.CoreCompileInputs.cache
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\obj\Debug\net6.0\intro task 3.dll
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\obj\Debug\net6.0\refint\intro task 3.dll
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\obj\Debug\net6.0\intro task 3.pdb
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\obj\Debug\net6.0\intro task 3.genruntimeconfig.cache
+C:\Users\Xasay Musayev\Desktop\intro task 3\intro task 3\obj\Debug\net6.0\ref\intro task 3.dll

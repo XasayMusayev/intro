@@ -1,0 +1,15 @@
+C:\Users\Xasay Musayev\Desktop\intro\intro\bin\Debug\net6.0\intro.exe
+C:\Users\Xasay Musayev\Desktop\intro\intro\bin\Debug\net6.0\intro.deps.json
+C:\Users\Xasay Musayev\Desktop\intro\intro\bin\Debug\net6.0\intro.runtimeconfig.json
+C:\Users\Xasay Musayev\Desktop\intro\intro\bin\Debug\net6.0\intro.dll
+C:\Users\Xasay Musayev\Desktop\intro\intro\bin\Debug\net6.0\intro.pdb
+C:\Users\Xasay Musayev\Desktop\intro\intro\obj\Debug\net6.0\intro.csproj.AssemblyReference.cache
+C:\Users\Xasay Musayev\Desktop\intro\intro\obj\Debug\net6.0\intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xasay Musayev\Desktop\intro\intro\obj\Debug\net6.0\intro.AssemblyInfoInputs.cache
+C:\Users\Xasay Musayev\Desktop\intro\intro\obj\Debug\net6.0\intro.AssemblyInfo.cs
+C:\Users\Xasay Musayev\Desktop\intro\intro\obj\Debug\net6.0\intro.csproj.CoreCompileInputs.cache
+C:\Users\Xasay Musayev\Desktop\intro\intro\obj\Debug\net6.0\intro.dll
+C:\Users\Xasay Musayev\Desktop\intro\intro\obj\Debug\net6.0\refint\intro.dll
+C:\Users\Xasay Musayev\Desktop\intro\intro\obj\Debug\net6.0\intro.pdb
+C:\Users\Xasay Musayev\Desktop\intro\intro\obj\Debug\net6.0\intro.genruntimeconfig.cache
+C:\Users\Xasay Musayev\Desktop\intro\intro\obj\Debug\net6.0\ref\intro.dll
